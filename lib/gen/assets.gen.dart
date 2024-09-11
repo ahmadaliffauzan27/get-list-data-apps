@@ -306,6 +306,37 @@ class $AssetsImagesGen {
       ];
 }
 
+class $AssetsScreenshotGen {
+  const $AssetsScreenshotGen();
+
+  /// File path: assets/screenshot/add users.png
+  AssetGenImage get addUsers =>
+      const AssetGenImage('assets/screenshot/add users.png');
+
+  /// File path: assets/screenshot/cart.png
+  AssetGenImage get cart => const AssetGenImage('assets/screenshot/cart.png');
+
+  /// File path: assets/screenshot/home1.png
+  AssetGenImage get home1 => const AssetGenImage('assets/screenshot/home1.png');
+
+  /// File path: assets/screenshot/home2.png
+  AssetGenImage get home2 => const AssetGenImage('assets/screenshot/home2.png');
+
+  /// File path: assets/screenshot/login.png
+  AssetGenImage get login => const AssetGenImage('assets/screenshot/login.png');
+
+  /// File path: assets/screenshot/profile.png
+  AssetGenImage get profile =>
+      const AssetGenImage('assets/screenshot/profile.png');
+
+  /// File path: assets/screenshot/users.png
+  AssetGenImage get users => const AssetGenImage('assets/screenshot/users.png');
+
+  /// List of all assets
+  List<AssetGenImage> get values =>
+      [addUsers, cart, home1, home2, login, profile, users];
+}
+
 class $AssetsIconsManFashionGen {
   const $AssetsIconsManFashionGen();
 
@@ -380,6 +411,7 @@ class Assets {
   static const $AssetsFontsGen fonts = $AssetsFontsGen();
   static const $AssetsIconsGen icons = $AssetsIconsGen();
   static const $AssetsImagesGen images = $AssetsImagesGen();
+  static const $AssetsScreenshotGen screenshot = $AssetsScreenshotGen();
 }
 
 class AssetGenImage {

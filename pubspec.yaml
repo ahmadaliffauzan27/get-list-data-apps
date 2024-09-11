@@ -79,6 +79,7 @@ flutter:
     - assets/icons/man-fashion/
     - assets/icons/woman-fashion/
     - assets/fonts/
+    - assets/screenshot/
 
   fonts:
     - family: Poppins

@@ -1,16 +1,9 @@
-# aplikasi_sederhana
+## 📷 Screen Shots Feature
 
-A new Flutter project.
+|                    Login Screen                    |                   Home Screen 1                    |                   Home Screen 2                    |                       Cart                        |
+| :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :-----------------------------------------------: |
+| <img src="/assets/screenshot/login.png" alt="POS"> | <img src="/assets/screenshot/home1.png" alt="POS"> | <img src="/assets/screenshot/home2.png" alt="POS"> | <img src="/assets/screenshot/cart.png" alt="POS"> |
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|                       Profile                        |                       Users                        |                       Add Users                        |
+| :--------------------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
+| <img src="/assets/screenshot/profile.png" alt="POS"> | <img src="/assets/screenshot/users.png" alt="POS"> | <img src="/assets/screenshot/add users.png" alt="POS"> |
